@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "RecyclopediaMobile-tvOS.app"
-               BlueprintName = "RecyclopediaMobile-tvOS"
-               ReferencedContainer = "container:RecyclopediaMobile.xcodeproj">
+               BuildableName = "Recyclopedia-tvOS.app"
+               BlueprintName = "Recyclopedia-tvOS"
+               ReferencedContainer = "container:Recyclopedia.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "RecyclopediaMobile-tvOSTests.xctest"
-               BlueprintName = "RecyclopediaMobile-tvOSTests"
-               ReferencedContainer = "container:RecyclopediaMobile.xcodeproj">
+               BuildableName = "Recyclopedia-tvOSTests.xctest"
+               BlueprintName = "Recyclopedia-tvOSTests"
+               ReferencedContainer = "container:Recyclopedia.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "RecyclopediaMobile-tvOS.app"
-            BlueprintName = "RecyclopediaMobile-tvOS"
-            ReferencedContainer = "container:RecyclopediaMobile.xcodeproj">
+            BuildableName = "Recyclopedia-tvOS.app"
+            BlueprintName = "Recyclopedia-tvOS"
+            ReferencedContainer = "container:Recyclopedia.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "RecyclopediaMobile-tvOS.app"
-            BlueprintName = "RecyclopediaMobile-tvOS"
-            ReferencedContainer = "container:RecyclopediaMobile.xcodeproj">
+            BuildableName = "Recyclopedia-tvOS.app"
+            BlueprintName = "Recyclopedia-tvOS"
+            ReferencedContainer = "container:Recyclopedia.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
